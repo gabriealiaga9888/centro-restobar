@@ -1,1 +1,12 @@
+```js
+document.addEventListener("DOMContentLoaded", () => {
+  const birthYear = prompt("Enter your birth year:");
+  const age = new Date().getFullYear() - birthYear;
 
+  if (age >= 18) {
+    alert("You can also choose alcoholic beverages.");
+  } else {
+    alert("You cannot choose alcoholic beverages.");
+  }
+});
+```
