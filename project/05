@@ -1,1 +1,22 @@
 
+```css
+@media (min-width: 768px) {
+  nav ul {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+@media (min-width: 1024px) {
+  .menu-section {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+
+  }
+}
+
+.card:hover {
+  transform: scale(1.05);
+  transition: 0.3s ease-in-out;
+}
+```
