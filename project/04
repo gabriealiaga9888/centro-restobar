@@ -1,1 +1,30 @@
+## 04 ##
 
+```html
+<body>
+  <header>
+    <img src="assets/images/logo.png" alt="Centro Logo">
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="entradas.html">Entrees</a></li>
+        <li><a href="platos.html">Main Dishes</a></li>
+        <li><a href="bebidas.html">Drinks</a></li>
+      </ul>
+    </nav>
+    <h1>Title of the Page</h1>
+  </header>
+
+  <main>
+    <section class="menu-section">
+      <!-- Menu cards here -->
+    </section>
+  </main>
+
+  <footer>
+    <p>Contact: contacto@centrorestobar.com</p>
+    <p>Follow us: IG | FB | TW</p>
+    <p>&copy; 2025 Centro Restobar</p>
+  </footer>
+</body>
+```
