@@ -1,1 +1,15 @@
 
+##03##
+For each of the 3 catalog pages (entradas, platos, bebidas):
+
+Include 4+ items
+
+Each item:
+
+📸 Image (<img src="assets/images/...">)
+
+📝 Name (<h3>)
+
+💲 Price (<p class="price">)
+
+Use cards (<article class="card">) for each item.
